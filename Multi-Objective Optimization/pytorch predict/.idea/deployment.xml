@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yanx@219.216.65.220:18023 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="yanx@219.216.65.220:18023">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yanx/home/qiaow/remote-server/pytorch-predict" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yanx@219.216.65.220:18023 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_686" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

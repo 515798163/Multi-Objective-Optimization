@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/A2C_WIKI/lib/common.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GAT-A2C/lib/common.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppo/lib/__init__.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ppo/lib/common.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

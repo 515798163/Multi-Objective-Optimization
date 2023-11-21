@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d34fd3a-4c0b-4092-9538-d59932ddacaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_combined.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_combined.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_nprmalize_all_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook/facebook_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_combined.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_combined.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_nprmalize_all_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/facebook_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki-vote.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_encode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/data/wiki_vote/wiki_vote_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/ga/genetic_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/SociaNetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/data_processing_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/late_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/slashdot_data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/social_A2C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/lib/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/log/all_reward.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/log/genetic_algorithm_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/log/reward.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_WIKI/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_d/data/Amherst41/socfb-Amherst41.mtx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/Slashdot0811.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_combined.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_combined.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_nprmalize_all_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook/facebook_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_combined.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_combined.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/facebook_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki-vote.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_encode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/data/wiki_vote/wiki_vote_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/ga/genetic_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/SociaNetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/late_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/runs/Apr14_16-35-33_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1649925333.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/runs/Apr14_21-06-09_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1649941569.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/slashdot_data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/social_A2C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/social_ppo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/log/genetic_algorithm_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/facebook_matrix_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/facebook_shortest_path_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=6/contrid_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=6/genetic_algorithm_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=6/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=6/节点选取.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=7/genetic_algorithm_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=7/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=7/节点选取.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=8/genetic_algorithm_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=8/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/k=8/节点选取.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/Slashdot0811.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_combined.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_combined.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_nprmalize_all_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook/facebook_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_combined.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_combined.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_nprmalize_all_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/facebook_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki-vote.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_betweenness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_closeness_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_contribute.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_degree_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_eigenvector_centrality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_encode.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_matrix.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_nprmalize_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_pagerank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/data/wiki_vote/wiki_vote_shortest_path.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/ga/genetic_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/SociaNetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/data_processing_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/late_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr12_15-42-28_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1681285348.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr12_16-26-33_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1681287993.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr12_16-31-14_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1681288274.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr12_21-08-25_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1681304905.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr12_21-15-56_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1681305356.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr12_21-23-59_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1681305839.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr13_15-50-22_gpu-server-01-SocialNetwork/events.out.tfevents.1649836222.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr13_16-35-30_gpu-server-01-SocialNetwork/events.out.tfevents.1649838930.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr13_23-05-45_gpu-server-01-SocialNetwork/events.out.tfevents.1649862345.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr14_10-57-58_gpu-server-01-SocialNetwork/events.out.tfevents.1649905078.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr14_15-05-16_gpu-server-01-SocialNetwork/events.out.tfevents.1649919916.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr14_16-35-33_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1649925333.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr14_20-16-51_gpu-server-01-SocialNetwork/events.out.tfevents.1649938611.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr14_21-06-09_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1649941569.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr14_21-36-46_gpu-server-01-SocialNetwork/events.out.tfevents.1649943406.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr14_22-34-36_gpu-server-01-SocialNetwork/events.out.tfevents.1649946876.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr15_10-46-03_gpu-server-01-SocialNetwork/events.out.tfevents.1649990763.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr15_12-06-23_gpu-server-01-SocialNetwork/events.out.tfevents.1649995583.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr15_19-18-01_gpu-server-01-SocialNetwork/events.out.tfevents.1650021481.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr15_19-23-54_gpu-server-01-SocialNetwork/events.out.tfevents.1650021834.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr16_11-10-27_gpu-server-01-SocialNetwork/events.out.tfevents.1650078627.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr16_22-11-30_gpu-server-01-SocialNetwork/events.out.tfevents.1650118290.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr16_23-10-30_gpu-server-01-SocialNetwork/events.out.tfevents.1650121830.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr24_14-41-21_gpu-server-01-SocialNetwork/events.out.tfevents.1650782481.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr24_21-33-18_gpu-server-01-SocialNetwork/events.out.tfevents.1650807198.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/runs/Apr25_10-38-28_gpu-server-01-SocialNetwork/events.out.tfevents.1650854308.gpu-server-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/slashdot_data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/social_A2C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/social_ppo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/lib/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/log/all_reward.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/log/genetic_algorithm_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/log/reward.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ppo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/pytorch predict.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/trans pytorch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/data/D_GSM.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/data/D_SSM1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/data/D_SSM2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/data/M_FSM.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/data/M_GSM.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/data/all_mirna_disease_pairs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/pytorch predict/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Apr14_16-35-33_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1649925333.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Apr14_20-14-32_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1649938472.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Apr14_21-06-09_LAPTOP-NE4I3J65-SocialNetwork/events.out.tfevents.1649941569.LAPTOP-NE4I3J65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/ppo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/lib/common/NewReward.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/lib/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/lib/read_mtx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ppo/lib/utils/NewReward.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/.idea/Multi-Objective Optimization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/.idea/Multi-Objective Optimization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/ContrId.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/ContrId.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/contrid_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/contrid_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/dqn_rumor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/dqn_rumor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/genetic_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/genetic_algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/last_conformity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/last_conformity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/lib/Environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/lib/Environment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/lib/SocialNetwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/lib/SocialNetwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/lib/dqn_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/lib/dqn_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/t=1/节点选取.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/t=1/节点选取.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/t=2/节点选取.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/node_record/t=2/节点选取.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar07_23-21-29_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1646666489.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar20_13-55-45_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647755745.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar20_14-23-32_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647757412.LAPTOP-NE4I3J65" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_d/lib/read_mtx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar20_14-25-22_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647757522.LAPTOP-NE4I3J65" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/A2C_d/lib/read_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar20_14-25-49_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647757549.LAPTOP-NE4I3J65" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/data_processing_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar20_14-26-53_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647757613.LAPTOP-NE4I3J65" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/GAT-A2C/lib/runs/Apr13_15-50-22_gpu-server-01-SocialNetwork/events.out.tfevents.1649836222.gpu-server-01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar20_14-27-41_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647757661.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar21_10-28-26_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647829706.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar21_10-32-31_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647829951.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar21_10-33-00_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647829980.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar21_22-08-17_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647871697.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar21_22-44-18_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647873858.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar22_12-06-35_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647921995.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/runs/Mar22_12-16-24_LAPTOP-NE4I3J65-PongNoFrameskip-v4/events.out.tfevents.1647922584.LAPTOP-NE4I3J65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Objective Optimization/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Objective Optimization/test3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2S0x05UpKwkfXGZSLFbNWnCSDuj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d34fd3a-4c0b-4092-9538-d59932ddacaa" name="Default Changelist" comment="" />
+      <created>1688297073700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688297073700</updated>
+      <workItem from="1688297075348" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
